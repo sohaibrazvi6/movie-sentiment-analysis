@@ -1,5 +1,5 @@
 streamlit==1.29.0
-tensorflow==2.15.1
+tensorflow==2.20.0
 protobuf<5
 numpy
 pandas
