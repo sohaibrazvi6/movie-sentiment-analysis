@@ -1,10 +1,6 @@
+streamlit==1.29.0
 pandas
 numpy
 scikit-learn
-tensorflow
 nltk
-beautifulsoup4
-matplotlib
-seaborn
-streamlit==1.29.0
-protobuf==3.20.3
+joblib
